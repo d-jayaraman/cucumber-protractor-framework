@@ -2,7 +2,7 @@
 A boilerplate BDD cucumber-protractor framework 
 
 ## Tech Stack 
-* Javascript (ES6)
+* Javascript (ES5)
 * NodeJS
 * Protractor
 * CucumberJS
